@@ -1,0 +1,73 @@
+Upon purchasing any content from lone.design you hereby agree to the terms and services listed below.
+
+Below are the following rules and TOS (Terms of Service) you are agreeing to when purchasing and using my custom map and prefabs. Failure to follow may/will result in community ban/block as well as reported to the map development team(s). Additionally, if the unauthorized use of my products is found it will result in a DMCA takedown, “A DMCA takedown refers to a notice sent because a copyright owner believes someone has posted an infringement and they want it removed without the hassle of filing an infringement lawsuit. … The copyright owner typically notifies the web provider that hosts the site (the Internet Service Provider or ISP).”
+
+(Return Policy)
+
+Returns will not be accepted as it’s a downloadable content which can not be ‘undownloaded’ unless due to specific situations listed below
+
+-If the product(s) was purchased multiple times. If so please contact me (lonesdesigns@gmail.com).
+-If you purchased a product that was somehow unmaintained and broken due to updates or some other game-changing aspect and it’s 100% not working contact the creator of the product and if they don’t respond email me at (lonesdesigns@gmail.com) and I (Lone) will get it resolved.
+
+Otherwise, there is no other situation in which we’d accept a refund as I hope the reader of this understands.
+
+(Use of Product)
+
+By downloading our maps/prefabs or any other works you may use these on your maps as you please, however, you may NOT resell these products or in any way associate them in a commercial use without consulting with the author first. This includes minor editing to my work and using it for your own commercial applications. In addition, any other redistribution of my maps is STRICTLY prohibited and will result in a ban as well as placed on a watch list for other map makers and additionally reported to other server owners.
+
+Anyone somehow acquiring (other than purchasing) any of our paid work and/or using on their server and/or distributing to others will result in a community ban amongst many platforms, the rust map-making discord community, and may result in a DMCA takedown.)
+
+All payable products must be a 1:1 ratio between community and product. Meaning one community owner has the rights to use my maps as their please, however, cross-community owners/partnerships are prohibited as that would be redistributing my products to others who have not purchased them. For specific situations please reach out to us via email if you have any questions prior/post-purchase (lonesdesigns@gmail.com)
+
+(Other Important Info)
+
+Nothing is perfect and bugs may come up. If you happen to see/find a bug please post in the #map-bugs channel on my discord or submit a contact form and we will update them as soon as we can! (https://discord.gg/aa7nA4D)
+
+Expect occasional updates for my content as I optimize/tweak them on a regular basis for maximum performance for clients running them. Prices per product may vary and are subject to change.
+
+Vendor Policy
+Any Vendors/Partners hosting content on my site must follow the guidlines below.
+
+Here at Lone.Design this document is relative to all partners/vendors within this platform.
+This document was created on March 15th, 2020
+
+Refunds from customers policy
+Refunds, as stated in the customer TOS, are not allowed with the only exception of duplicate purchases. However, if a customer buys a product that is defective or outdated/broken then it’s the responsibility of the vendor to update their product and assist with the customer.
+
+Product approval policy
+All products submitted for site approval may take anywhere of a few minutes, to a few days depending on the project size and thoroughness of testing required. Any product submitted to Lone.Design is subject to reviewal and must be carefully examined to determine any bugs, glitches, visual imperfections, etc, all of which is at the discretion of the site admins to be approved or not. If any serious product is submitted and not approved you may be reached out to by a site admin for a response as to why it was declined as well as any suggestions you can do to improve/fix.
+
+Inactive Vendors/Defective Products
+If any of the products listed on Lone.Design is either broken, outdated, or in any way not functional to the intended purpose as listed in the product description/images then Lone.Design does reserve the right to remove/take over those said products. If you decide to abandon a project or not respond when your listing needs to be updated there will be a 30-day issue warning that you need to update it or take it down. Outside of the 30-day window, we reserve the right to remove/takeover the product.
+
+Stolen Content Policy
+Anyone caught stealing or very identically mimicking someone else’s work (which is up to a site admin to determine) your product may be subject to removal and if severe enough, your account will be subject to removal along with your products. All site admins reserve the right to decide if a product is either stolen, copied, or in any way mimicking a current product (listed here, or elsewhere). We won’t tolerate ‘copycat’ behavior.
+
+Malicious Product Policy
+Any vendor/customer caught uploading/attacking/phishing/ or any sort of cyber-related attacks will be immediately banned from selling/buying from the community. Any vendor attempting to upload malicious content to be accepted onto Lone.Design will be subject to instant removal and ban and all products will be removed if any are currently on the site.
+
+Payment Issued Policy
+All payments made from Lone.Design to the vendors is done automatically with the PayPal you provided when signing up. If you change your PayPal, or your PayPal becomes flagged, stolen, etc, you are responsible for making sure it’s the accurate information for payments to be sent to. Payments at the time of this document don’t have a set schedule, however, it is done automatically from PayPal’s payout system which we have implemented. Due to possible chargebacks, disputes, etc, we will do payouts once per week, or once per two weeks to reduce any issues with payments not being processed fully such as fraudulent accounts, stolen cards, etc.
+
+Lone.Design is NOT liable for theft/leaking of maps outside of this platform. Since there’s no ‘map protection’ it is between the vendor and the ‘thief’ to resolve any disagreements/issues. Since there’s no way to fully protect maps at the current moment we recommend placing a password on your .map file when you save it to at least prevent people from editing the .map. Again, Lone.Design is not liable for anyone who steals content from vendors on this platform.
+
+By uploading content to Lone.Design I (you the vendor), hereby agree to rules, conditions, regulations, and restrictions created by Lone.Design.
+
+Product Updates
+By becoming a vendor of Lone.Design you are solely responsible for keeping your work up to date and fully functional at all times. If over a 15 day period the product/plugin is reported to be defective/unusable, the product will be subject to removal. If attempts to contact a vendor in a 48 hour period result in no response, we hold the right to remove your product from our store. If multiple failures occur on a product, Lone.Design holds the right to remove the product from the store, as well as remove your ability to sell products and be listed as a vendor. We pride ourselves in quailty work, and we expect our vendors to do the same.
+
+Vendor Fees
+Unless specificed in writing from a Lone.Design staff member, standard commission rates will be 10% of your product’s selling price after fees and taxes are removed.
+
+Product Approvals & Revisions/Suggestions
+All products (plugins/prefabs/maps) are subject to rejection/approval based on the staff’s discretion and testing. If a product is approved you will be contacted. If a product is not approved you may or may not be contacted. You are allowed one submission per item, so please refrain from sending us unfinished items. If multiple submissions are denied, we reserve the right to no longer accept or review submissions from you.
+
+Products upon submission are subject to suggestions before approval. These items must be fixed or adjusted before your item will be accepted on the marketplace for sale. These suggestions range from bugs, glitches, pricing, and anything we deemed fit to meet our level of quality.
+
+Malicious Content
+Any vendor found modifying their product in extreme or malicious manors are subject to immediate ban/removal such as uploading harmful files, extremely unreasonable pricing, and anything the Lone.Design staff sees fit. Any malicious acts that involve exposing customers information or Lone.Design database to other parties will result in legal action and possible prosecution. Lone.Design does not take any responibility or liability for products sold in the marketplace. All vendors are 100% liabile for any litigration, damaged, and court costs as a result of their negligance or behaviour.
+
+Staff Decisions
+All staff of Lone.Design are extremely confidential with the information they have permissions to obtain, such as customer information, vendor information, and product information. Any proof of staff sharing paid products, or information from Lone.Design is subject to instant ban and will not be tolerated. If damages occur, Lone.Design may presue legal action.
+
+All staff within Lone.Design reserve the right to accept/reject applications, additionally have the right to ban/block anyone as seen fit and necessary to do so. As well as remove, modify any posts/products as needed. Examples being (Update breaks the plugin and it’s inoperable, then we can temporarily take the plugin off the store until it’s fixed).

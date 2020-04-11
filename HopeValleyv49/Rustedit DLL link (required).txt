@@ -1,0 +1,1 @@
+https://github.com/k1lly0u/Oxide.Ext.RustEdit

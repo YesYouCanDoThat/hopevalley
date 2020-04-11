@@ -1,0 +1,8 @@
+ID: RIESE1 - Location: (1150.3, 15.6, 169.4)
+ID: RIESEVAULT1 - Location: (1111.9, 13.8, 119.8)
+ID: SUB1 - Location: (-989.7, 4.2, -148.8)
+ID: SUB2 - Location: (-930.2, 14.6, -115.1)
+ID: NEEDLE1 - Location: (627.6, 134.8, -662.7)
+ID: BANKLOBBY - Location: (914.5, 136.9, -629.0)
+ID: BRIDGE1 - Location: (770.9, 157.8, 0.2)
+ID: BUNKER1 - Location: (-768.4, 50.1, -1026.4)
